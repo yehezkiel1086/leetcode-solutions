@@ -1,3 +1,3 @@
-# 150 LeetCode Solutions
+# LeetCode Solutions
 
-https://leetcode.com/studyplan/top-interview-150/
+https://leetcode.com
